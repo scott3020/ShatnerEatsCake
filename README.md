@@ -1,2 +1,2 @@
 # ShatnerEatsCake
-Well yeah. I know.
+It is all rubbish!
