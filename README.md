@@ -1,2 +1,2 @@
 # ShatnerEatsCake
-Basic JS Playground
+Well yeah. I know.
