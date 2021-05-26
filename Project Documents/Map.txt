@@ -1,0 +1,5 @@
+"Map" project notes
+motion is controlled via moving the background image with a static centered player.
+items should be placed and moved?
+Controller grid - Map overlay - Object layer - Player layer - Object layer Upper
+Controller grid consists of 10x10px tiles
